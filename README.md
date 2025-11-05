@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e desenvolvimento de sistema`**
 
-Me chamo Felipe Silveira Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Cermac, atualmente estou cursando análise e desenvolvimento de sistemas na FIAP. Desde sempre gostei de tecnologia e de explorar o que podemos fazer de mais magnífico com ela, de vez em quando estou postando alguns projetos que realizo para práticar o que venho estudando diariamente em meu linkedin "[Felipe Andrade](https://www.linkedin.com/in/felipe-andrade-593a07268/)".
+Me chamo Felipe Silveira Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Cermac, atualmente estou cursando análise e desenvolvimento de sistemas na FIAP. Desde sempre gostei de tecnologia e de explorar o que podemos fazer de mais magnífico com ela, de vez em quando estou postando alguns projetos que realizo para praticar o que venho estudando diariamente em meu linkedin "[Felipe Andrade](https://www.linkedin.com/in/felipe-andrade-593a07268/)".
   
 ### 📱Linguagens e Tecnologias que estou estudando no momento 
 
