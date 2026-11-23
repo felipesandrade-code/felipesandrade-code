@@ -1,60 +1,67 @@
 # 👨‍💻 Felipe Silveira Andrade
 
-**`Estudante de Análise e desenvolvimento de sistema`**
+**`Analista e Desenvolvedor de Sistemas`**
 
-Me chamo Felipe Silveira Andrade, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Cermac, atualmente estou cursando análise e desenvolvimento de sistemas na FIAP. Desde sempre gostei de tecnologia e de explorar o que podemos fazer de mais magnífico com ela, de vez em quando estou postando alguns projetos que realizo para praticar o que venho estudando diariamente em meu linkedin "[Felipe Andrade](https://www.linkedin.com/in/felipe-andrade-593a07268/)".
+Me chamo Felipe Silveira Andrade e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP. Desde sempre gostei de tecnologia e de explorar o que podemos fazer de mais magnífico com ela. De vez em quando posto no meu LinkedIn "[Felipe Andrade](https://www.linkedin.com/in/felipe-andrade-593a07268/)" os projetos que faço para praticar o que aprendo.
   
-### 📱Linguagens e Tecnologias que estou estudando no momento 
+### 📱Linguagens e Tecnologias que uso no dia a dia 
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="PHP"
+    title="PHP"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left"
-    alt="JavaScript"
-    title="JavaScript"
+    alt="Laravel"
+    title="Laravel"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
-<img 
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left"
-    alt="AndroidStudio"
-    title="AndroidStudio"
+    alt="TypeScript"
+    title="TypeScript"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
- />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Flutter"
+    title="Flutter"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
- />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left"
+    alt="Dart"
+    title="Dart"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+/>
+<img 
+    align="left"
+    alt="Docker"
+    title="Docker e Docker Compose"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 <img 
     align="left"
     alt="Git"
     title="Git"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-          
 
 <br/>
 <br/>                     
@@ -70,10 +77,9 @@ Me chamo Felipe Silveira Andrade, tenho 21 anos e sou natural de São Paulo. Con
     />
     <img
         align="left"
-        alt="Linguagens mais usadas"
+        alt="Sequência de contribuições"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesandrade-code&theme=tokyonight"
+        src="https://streak-stats.demolab.com/?user=felipesandrade-code&theme=tokyonight"
     />
-
 </p>
