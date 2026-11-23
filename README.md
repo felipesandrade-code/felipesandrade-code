@@ -75,4 +75,11 @@ Me chamo Felipe Silveira Andrade e sou natural de São Paulo. Sou formado em An�
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=felipesandrade-code&show_icons=true&theme=tokyonight"
     />
+    <img
+        align="left"
+        alt="Sequência de contribuições"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://streak-stats.demolab.com/?user=felipesandrade-code&theme=tokyonight"
+    />
 </p>
