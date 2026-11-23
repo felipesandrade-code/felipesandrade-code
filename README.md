@@ -2,7 +2,7 @@
 
 **`Analista e Desenvolvedor de Sistemas`**
 
-Me chamo Felipe Silveira Andrade e sou natural de São Paulo. Concluí o ensino médio no Colégio Cermac e sou formado em Análise e Desenvolvimento de Sistemas pela FIAP. Desde sempre gostei de tecnologia e de explorar o que podemos fazer de mais magnífico com ela. De vez em quando posto no meu LinkedIn "[Felipe Andrade](https://www.linkedin.com/in/felipe-andrade-593a07268/)" os projetos que faço para praticar o que aprendo.
+Me chamo Felipe Silveira Andrade e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP. Desde sempre gostei de tecnologia e de explorar o que podemos fazer de mais magnífico com ela. De vez em quando posto no meu LinkedIn "[Felipe Andrade](https://www.linkedin.com/in/felipe-andrade-593a07268/)" os projetos que faço para praticar o que aprendo.
   
 ### 📱Linguagens e Tecnologias que uso no dia a dia 
 
@@ -75,12 +75,4 @@ Me chamo Felipe Silveira Andrade e sou natural de São Paulo. Concluí o ensino 
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=felipesandrade-code&show_icons=true&theme=tokyonight"
     />
-    <img
-        align="left"
-        alt="Linguagens mais usadas"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesandrade-code&theme=tokyonight"
-    />
-
 </p>
